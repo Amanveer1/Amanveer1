@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanveer1&label=Profile%20views&color=0e75b6&style=flat" alt="amanveer1" /> </p>
 
+- 🔭 I’m currently working onHTML, CSS, JavaScript,React.js,Java.
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Frontend Development & DSA.**
